@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firmanwahid
+- 👋 Hi, I’m <b>Firman</b> <i>Aulia</i> Wahid
 -         NRP : 3122510637
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Javascript, Python, PHP
